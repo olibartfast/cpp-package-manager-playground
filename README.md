@@ -34,3 +34,7 @@
 - **Build Time**: TBD
 - **Flexibility**: Good for CMake projects.
 - **Cross-Platform Support**: Good.
+
+
+### References
+https://moderncppdevops.com/pkg-mngr-roundup/
