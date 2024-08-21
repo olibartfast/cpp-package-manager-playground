@@ -1,6 +1,6 @@
 # C++ Package Manager Playground
 
-* Planning to test several c++ pakage managers starting with: **Conan**, **vcpkg**, **Spack**, and **Hunter**.
+* Planning to test several c++ package managers starting with: **Conan**, **vcpkg**, **Spack**, and **Hunter**.
 
 ## Comparison Criteria
 
@@ -8,8 +8,6 @@
 - **Build Time**: Time taken to build the project.
 - **Flexibility**: Ease of managing dependencies and configuration options.
 - **Cross-Platform Support**: How well each tool supports different operating systems.
-
-## Results
 
 ### Conan
 - **Setup**: Easy with `conanfile.txt`.
