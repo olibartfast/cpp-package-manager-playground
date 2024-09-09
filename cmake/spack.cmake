@@ -1,0 +1,1 @@
+# Spack-related setup can be done here if necessary

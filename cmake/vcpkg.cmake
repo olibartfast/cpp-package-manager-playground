@@ -1,0 +1,1 @@
+set(CMAKE_TOOLCHAIN_FILE [path-to-vcpkg]/scripts/buildsystems/vcpkg.cmake)
